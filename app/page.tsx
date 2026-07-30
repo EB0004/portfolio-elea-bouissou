@@ -3,7 +3,11 @@ import GalleryReveal from "../GalleryReveal";
 export default function Home() {
   return (
     <main>
-      <GalleryReveal />
+      <GalleryReveal 
+        projectId="portfolio" 
+        projectTitle="Mon Portfolio" 
+        items={[]} 
+      />
     </main>
   );
 }
