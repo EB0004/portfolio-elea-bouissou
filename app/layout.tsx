@@ -13,11 +13,9 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "Starter Project",
-  description: "A clean starting point for building your site.",
-  other: {
-    "codex-preview": "development",
-  },
+  title: "Eléa Bouissou — Portfolio",
+  description:
+    "Portfolio d'Eléa Bouissou · Marketing, événementiel et expérience client.",
   icons: {
     icon: "/favicon.svg",
     shortcut: "/favicon.svg",
